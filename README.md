@@ -2,7 +2,7 @@
 
 Majoring in Computer Science 
 
-<a href="https://mminjukim.notion.site/mj-home">
+<a href="https://mminjukim.notion.site/mj-home" target="_blank">
 <img src="https://img.shields.io/badge/Check_my_Notion_here-ffffff?style=social&logo=Notion&logoColor=black"/>
 </a>
 
