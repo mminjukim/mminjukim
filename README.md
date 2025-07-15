@@ -14,7 +14,7 @@ Majoring in Computer Science
   <img  src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/> <img  src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=amazon_ec2&logoColor=white"/> <img  src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img  src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
 #### Studying
-<img  src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"> <img  src="https://img.shields.io/badge/Spring_Security-DB33F?style=flat-square&logo=springsecurity&logoColor=white">
+<img  src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"> <img  src="https://img.shields.io/badge/Spring_Security-DB33F?style=flat-square&logo=springsecurity&logoColor=white"> <img  src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white">
 
 #### Tools
   <img  src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img  src="https://img.shields.io/badge/IntelliJ IDEA-da2fb6?style=flat-square&logo=intellijidea&logoColor=white"/> <img  src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <br>
