@@ -1,21 +1,17 @@
 ## Hi 👋
+Majoring in Computer Science, Backend Developer<br>
 
-Majoring in Computer Science 
+<a href="https://mminjukim.notion.site/mj-home" target="_blank"><img height=25 src="https://img.shields.io/badge/Check_my_Notion_here-FFFFFF?style=flat-square&logo=Notion&logoColor=black"></a>
 
-<a href="https://mminjukim.notion.site/mj-home" target="_blank">
-<img src="https://img.shields.io/badge/Check_my_Notion_here-ffffff?style=social&logo=Notion&logoColor=black"/>
-</a>
-
-<hr>
 
 #### Skills
-  <img  src="https://img.shields.io/badge/Java-a7752f?style=flat-square&logo=Java&logoColor=white&logoSize=100"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> <img  src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img  src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"> <br>
-  <img  src="https://img.shields.io/badge/_C_-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img  src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> <img  src="https://img.shields.io/badge/CSS-663399?style=flat-square&logo=css&logoColor=white"/> <br>
-  <img  src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/> <img  src="https://img.shields.io/badge/AWS EC2-FF9900?style=flat-square&logo=amazon_ec2&logoColor=white"/> <img  src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img  src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
+  <img height=18 src="https://img.shields.io/badge/Java-ffffff?style=flat-square&logo=Java&logoColor=black"> <img height=18 src="https://img.shields.io/badge/Spring-ffffff?style=flat-square&logo=Spring&logoColor=6DB33F"> <img height=18 src="https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=Python&logoColor=3776AB"/> <img height=18 src="https://img.shields.io/badge/Django-ffffff?style=flat-square&logo=django&logoColor=092E20"> <br>
+  <img height=18 src="https://img.shields.io/badge/_C_-ffffff?style=flat-square&logo=C&logoColor=A8B9CC"/> <img height=18 src="https://img.shields.io/badge/HTML-ffffff?style=flat-square&logo=html5&logoColor=E34F26"/> <img height=18 src="https://img.shields.io/badge/CSS-ffffff?style=flat-square&logo=css&logoColor=663399"/> <br>
+  <img height=18 src="https://img.shields.io/badge/Linux-ffffff?style=flat-square&logo=Linux&logoColor=FCC624"/> <img height=18 src="https://img.shields.io/badge/AWS EC2-ffffff?style=flat-square&logo=amazon_ec2&logoColor=white"/> <img height=18 src="https://img.shields.io/badge/Docker-ffffff?style=flat-square&logo=Docker&logoColor=2496ED"/> <img height=18 src="https://img.shields.io/badge/MySQL-ffffff?style=flat-square&logo=MySQL&logoColor=4479A1"/>
 
 #### Studying
-<img  src="https://img.shields.io/badge/React Native-61DAFB?style=flat-square&logo=React&logoColor=black"> <img  src="https://img.shields.io/badge/Spring_Security-DB33F?style=flat-square&logo=springsecurity&logoColor=white"> <img  src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=redis&logoColor=white">
+<img height=18 src="https://img.shields.io/badge/React Native-ffffff?style=flat-square&logo=React&logoColor=61DAFB"> <img height=18 src="https://img.shields.io/badge/Spring_Security-ffffff?style=flat-square&logo=springsecurity&logoColor=DB33F"> <img height=18 src="https://img.shields.io/badge/Redis-ffffff?style=flat-square&logo=redis&logoColor=FF4438">
 
 #### Tools
-  <img  src="https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img  src="https://img.shields.io/badge/IntelliJ IDEA-da2fb6?style=flat-square&logo=intellijidea&logoColor=white"/> <img  src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <br>
-  <img  src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/> <img  src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>
+  <img height=18 src="https://img.shields.io/badge/Visual_Studio_Code-ffffff?style=flat-square&logo=visualstudiocode&logoColor=white"/> <img height=18 src="https://img.shields.io/badge/IntelliJ IDEA-ffffff?style=flat-square&logo=intellijidea&logoColor=da2fb6"/> <img height=18 src="https://img.shields.io/badge/GitHub-ffffff?style=flat-square&logo=GitHub&logoColor=181717"/> <br>
+  <img height=18 src="https://img.shields.io/badge/Figma-ffffff?style=flat-square&logo=figma&logoColor=F24E1E"/> <img height=18 src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=000000"/>
