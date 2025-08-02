@@ -1,5 +1,5 @@
 ## Hi 👋
-Majoring in Computer Science, Backend Developer<br>
+Majoring in Computer Science '23, Backend Developer<br>
 
 <a href="https://mminjukim.notion.site/mj-home" target="_blank"><img height=25 src="https://img.shields.io/badge/Check_my_Notion_here-f3f3f3?style=flat-square&logo=Notion&logoColor=black"></a>
 
