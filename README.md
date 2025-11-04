@@ -1,10 +1,10 @@
-## Hi 👋
+## Hi! 👋
 
-<a href="https://mminjukim.notion.site/mj-home" target="_blank"><img height=25 src="https://img.shields.io/badge/Notion-3B3B3B?style=flat-square&logo=Notion&logoColor=ffffff"></a> <a href="https://velog.io/@mminjukim/posts" target="_blank"><img height=25 src="https://img.shields.io/badge/Velog-3B3B3B?style=flat-square&logo=Velog&logoColor=20C997"></a>
+<a href="https://mminjukim.notion.site/mj-home" target="_blank"><img height=25 src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"></a> <a href="https://velog.io/@mminjukim/posts" target="_blank"><img height=25 src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
 
 ### Skills
-  <img height=20 src="https://img.shields.io/badge/Java-3B3B3B?style=flat-square&logo=Java&logoColor=black"> <img height=20 src="https://img.shields.io/badge/Spring-3B3B3B?style=flat-square&logo=Spring&logoColor=6DB33F"> <img height=20 src="https://img.shields.io/badge/Python-3B3B3B?style=flat-square&logo=Python&logoColor=3776AB"/> <img height=20 src="https://img.shields.io/badge/Django-3B3B3B?style=flat-square&logo=django&logoColor=092E20"> <br>
-  <img height=20 src="https://img.shields.io/badge/_C_-3B3B3B?style=flat-square&logo=C&logoColor=A8B9CC"/> <img height=20 src="https://img.shields.io/badge/Linux-3B3B3B?style=flat-square&logo=Linux&logoColor=FCC624"/> <img height=20 src="https://img.shields.io/badge/AWS EC2-3B3B3B?style=flat-square&logo=amazon_ec2&logoColor=white"/> <img height=20 src="https://img.shields.io/badge/Docker-3B3B3B?style=flat-square&logo=Docker&logoColor=2496ED"/> <img height=20 src="https://img.shields.io/badge/MySQL-3B3B3B?style=flat-square&logo=MySQL&logoColor=4479A1"/>
+  <img height=20 src="https://img.shields.io/badge/Java-ef9214?style=flat-square&logo=Java&logoColor=white"> <img height=20 src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> <img height=20 src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img height=20 src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"> <br>
+  <img height=20 src="https://img.shields.io/badge/_C_-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <img height=20 src="https://img.shields.io/badge/AWS-ff9900?style=flat-square&logo=aws&logoColor=white"/> <img height=20 src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img height=20 src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> 
 
 ### Experiences
 - 멋쟁이사자처럼 LIKELION UNIV. 12th <br>
