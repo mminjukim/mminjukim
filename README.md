@@ -1,6 +1,6 @@
 ## Hi 👋
 
-<a href="https://mminjukim.notion.site/mj-home" target="_blank"><img height=25 src="https://img.shields.io/badge/Check_my_Notion_here-3B3B3B?style=flat-square&logo=Notion&logoColor=ffffff"></a>
+<a href="https://mminjukim.notion.site/mj-home" target="_blank"><img height=25 src="https://img.shields.io/badge/Notion-3B3B3B?style=flat-square&logo=Notion&logoColor=ffffff"></a> <a href="[https://velog.io/@mminjukim/posts]" target="_blank"><img height=25 src="https://img.shields.io/badge/Velog-3B3B3B?style=flat-square&logo=Velog&logoColor=20C997"></a>
 
 ### Skills
   <img height=20 src="https://img.shields.io/badge/Java-3B3B3B?style=flat-square&logo=Java&logoColor=black"> <img height=20 src="https://img.shields.io/badge/Spring-3B3B3B?style=flat-square&logo=Spring&logoColor=6DB33F"> <img height=20 src="https://img.shields.io/badge/Python-3B3B3B?style=flat-square&logo=Python&logoColor=3776AB"/> <img height=20 src="https://img.shields.io/badge/Django-3B3B3B?style=flat-square&logo=django&logoColor=092E20"> <br>
