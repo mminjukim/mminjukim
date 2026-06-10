@@ -1,0 +1,22 @@
+## Hi! 👋
+
+<a href="https://velog.io/@mminjukim/posts" target="_blank"><img height=18 src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
+
+### Skills
+  <img height=18 src="https://img.shields.io/badge/Java-ef9214?style=flat-square&logo=Java&logoColor=white"> <img height=18 src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"> <img height=18 src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"> <img height=18 src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img height=18 src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"> <img height=18 src="https://img.shields.io/badge/_C_-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <br>
+  <img height=18 src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img height=18 src="https://img.shields.io/badge/Oracle-C74634?style=flat-square&logo=Oracle&logoColor=white"/> <img height=18 src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=Redis&logoColor=white"/> <img height=18 src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/> <br>
+  <img height=18 src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img height=18 src="https://img.shields.io/badge/Github_Actions-2088FF?style=flat-square&logo=GithubActions&logoColor=white"/> <img height=18 src="https://img.shields.io/badge/AWS-ff9900?style=flat-square&logo=aws&logoColor=white"/> <img height=18 src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=flat-square&logoColor=white"/> 
+  
+
+### Experiences
+- 멋쟁이사자처럼 LIKELION UNIV. 12th <br>
+  <sub>백엔드 아기사자 (2024.03 - 2024.12)</sub>
+  
+- 멋쟁이사자처럼 LIKELION UNIV. 13th <br>
+  <sub>백엔드 운영진 (2025.01 - 2025.12)</sub>
+
+- 2025 한이음 드림업 프로젝트<br>
+  <sub>백엔드 팀원 (2025.04 - 2025.10)</sub>
+  
+- 한국대학생IT경영학회 KUSITMS 32nd <br>
+  <sub>백엔드 학회원 (2025.08 - 2025.12)</sub>
