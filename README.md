@@ -1,6 +1,6 @@
 ## Hi! 👋
 
-<a href="https://velog.io/@mminjukim/posts" target="_blank"><img height=18 src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"></a>
+<a href="https://mminjukim.notion.site/article" target="_blank">Blog</a>
 
 ### Skills
   <img height=18 src="https://img.shields.io/badge/Java-ef9214?style=flat-square&logo=Java&logoColor=white"> <img height=18 src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"> <img height=18 src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"> <img height=18 src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/> <img height=18 src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"> <img height=18 src="https://img.shields.io/badge/_C_-A8B9CC?style=flat-square&logo=C&logoColor=white"/> <br>
