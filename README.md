@@ -14,7 +14,7 @@ Java와 Spring Boot 환경을 기반으로 서버 시스템을 개발합니다.
 
 `Server & DB`
 
-<img height=18 src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"> <img height=18 src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"> <img height=18 src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"> <img height=18 src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img height=18 src="https://img.shields.io/badge/Oracle-C74634?style=flat-square&logo=Oracle&logoColor=white"/> <img height=18 src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=Redis&logoColor=white"/> <img height=18 src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
+<img height=18 src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"> <img height=18 src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"> <img height=18 src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"> <img height=18 src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/> <img height=18 src="https://img.shields.io/badge/Oracle-C74634?style=flat-square&logo=Oracle&logoColor=white"/> <img height=18 src="https://img.shields.io/badge/Redis-FF4438?style=flat-square&logo=Redis&logoColor=white"/> <img height=18 src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=PostgreSQL&logoColor=white"/>
 
 
 `Client`
