@@ -1,8 +1,6 @@
 ## Hi! 👋
 
-Java와 Spring Boot 환경을 기반으로 서버 시스템을 개발합니다. 
-<br> 
-<a href="https://mminjukim.notion.site/article" target="_blank">Blog</a> &nbsp;<a href="mailto:mminju.km@gmail.com">Email</a> &nbsp;<a href="https://drive.google.com/drive/folders/1UdJByFYFrwXWcFsmgudNbxBRMQMIYkap" target="_blank">Credentials</a> <br>
+<a href="https://mminjukim.notion.site/article" target="_blank">Blog</a> &nbsp;<a href="mailto:mminju.km@gmail.com">Email</a> 
 
 --- 
 
@@ -40,6 +38,9 @@ Java와 Spring Boot 환경을 기반으로 서버 시스템을 개발합니다.
   
 - 한국대학생IT경영학회 KUSITMS 32nd <br>
   <sub>백엔드 학회원 (2025.08 - 2025.12)</sub>
+
+- LG전자 Life.zip 산학협력 프로젝트 <br>
+  <sub>백엔드 팀원 (2025.08 - 2025.10)</sub>
 
 - 교내 같이피움(튜터링) <br>
   <sub>C언어 전공과목 '프로그래밍논리의이해' 튜터 (2026.03 - 2026.06)</sub>
