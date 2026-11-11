@@ -1,6 +1,9 @@
 ## Hi 👋
 
-<a href="https://mminjukim.notion.site/article" target="_blank">Blog</a> &nbsp;<a href="mailto:mminju.km@gmail.com">Email</a> 
+> Blog [mminjukim.notion.site/article](https://mminjukim.notion.site/article) <br>
+> Email [mminju.km@gmail.com](mailto:mminju.km@gmail.com)
+
+<br> 
 
 ### Skills
 
@@ -19,6 +22,8 @@
 `Cloud & Devops`
 
 <img height=18 src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/> <img height=18 src="https://img.shields.io/badge/Github_Actions-2088FF?style=flat-square&logo=GithubActions&logoColor=white"/> <img height=18 src="https://img.shields.io/badge/AWS-ff9900?style=flat-square&logo=aws&logoColor=white"/> <img height=18 src="https://img.shields.io/badge/Naver Cloud Platform-03C75A?style=flat-square&logoColor=white"/> 
+
+<br> 
 
 ### Projects
 
